@@ -1,4 +1,4 @@
-functions and how to call use the functions
+Functions and how to call use the functions
 Note: If the application says you to enter some thing plaese type and enter, othewise, speak.
 1. Play music: the phrase "play music" should be a part of the input you give
 2. Open a site(website): the phrase "open site" should be a part of the input you give
